@@ -1,0 +1,35 @@
+{
+   "title": {
+      "message": "New Tetris Game"
+   },
+   "appControlControl": {
+      "message": "Control"
+   },
+   "appControlPause": {
+      "message": "Pause"
+   },
+   "appControlRotate": {
+      "message": "Rotate"
+   },
+   "desc": {
+      "message": "New Tetris Puzzle Game opens in the popup in your browser by clicking on icon."
+   },
+   "appLabelLevel": {
+      "message": "Level"
+   },
+   "appLabelNewGame": {
+      "message": "New game"
+   },
+   "appLabelNextFigure": {
+      "message": "Next Figure"
+   },
+   "appLabelRecord": {
+      "message": "Top score"
+   },
+   "appLabelScore": {
+      "message": "Score"
+   },
+   "name": {
+      "message": "Tetris Puzzle Game"
+   }
+}

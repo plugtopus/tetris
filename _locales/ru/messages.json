@@ -1,0 +1,35 @@
+{
+   "title": {
+      "message": "Тетрис Новый - Игра в окошке"
+   },
+   "appControlControl": {
+      "message": "Управление"
+   },
+   "appControlPause": {
+      "message": "Пауза"
+   },
+   "appControlRotate": {
+      "message": "Вращение"
+   },
+   "desc": {
+      "message": "Новый Тетрис - игра во всплывающем окне в твоём браузере"
+   },
+   "appLabelLevel": {
+      "message": "Уровень"
+   },
+   "appLabelNewGame": {
+      "message": "Новая игра"
+   },
+   "appLabelNextFigure": {
+      "message": "Следующая фигура"
+   },
+   "appLabelRecord": {
+      "message": "Рекорд"
+   },
+   "appLabelScore": {
+      "message": "Очки"
+   },
+   "name": {
+      "message": "Тетрис"
+   }
+}
